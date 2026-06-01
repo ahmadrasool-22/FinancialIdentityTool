@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 import questions from "../data/questions";
 import calculateResult from "../utils/calculateResult";
 
-import ProgressBar from "../components/ProgressBar";
+import ProgressBar from "../components/Progressbar";
 import QuestionCard from "../components/QuestionCard";
 
 const Assessment = () => {
